@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I.m Rayyan Galih Indarto
 💻 Software Engineer sharing about my journey and learnings in tech<br>🏢 I’m currently majoring in Informatics at Universitas Islam Indonesia<br>💭 Learning more about web development
 
 
